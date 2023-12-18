@@ -6,11 +6,11 @@ Oxylabs’ [Price Scraper](https://oxylabs.io/products/scraper-api/web/price-scr
 
 ### How it works
 
-You can get Price results by providing your own URLs to our service. We can return the HTML for any Price page you like.
+You can get HTML of any pricing result by providing your own URLs to our service.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Price page.
+The example below illustrates how you can obtain HTML with pricing information for a sample product page.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our specialized Price Scraper tool, you can easily gather public information from any Garmin products web page. Collect necessary data like price, customer reviews, or detailed product specifications to monitor and understand the market better and stay ahead of your competitors in the fitness sector. If you need any help or have any questions, feel free to reach out to our support team through our live chat service or send us an email at hello@oxylabs.io.
+With our specialized Price Scraper tool, you can easily gather public information from any product pages. Collect necessary data like price, customer reviews, or detailed product specifications to monitor and understand the market better and stay ahead of your competitors. If you need any help or have any questions, feel free to reach out to our support team through our live chat service or send us an email at hello@oxylabs.io.
